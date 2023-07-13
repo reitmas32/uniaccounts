@@ -52,3 +52,6 @@ app.*.map.json
 /web
 /.dart_tool
 /build
+
+.metadata
+pubspec.lock
